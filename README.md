@@ -7,5 +7,3 @@ He has a strong interest in Multimodal Learning, Natural Language Processing, Co
 - [LinkedIn](https://www.linkedin.com/in/marco-mistretta-0b02a021a/)
 - [Scholar](https://scholar.google.com/citations?hl=it&authuser=4&user=KMIb4eAAAAAJ)
 - [Email](marco.mistertta@edu.unifi.it)
-
-![marco.jpg](assets/img/marco.jpg)
