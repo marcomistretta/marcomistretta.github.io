@@ -1,6 +1,6 @@
 # Marco Mistretta
 
-Welcome to my GitHub repository! I am Marco Mistretta, an AI enthusiast and a dedicated PhD student at [MICC](https://www.micc.unifi.it/). My research focuses on Multimodal Learning, Natural Language Processing, Contrastive Self-Supervised Learning, and Incremental Learning. I am particularly passionate about applying these technologies to healthcare, where they can revolutionize medical diagnostics.
+Hi, I am Marco Mistretta, an AI enthusiast and a dedicated PhD student at [MICC](https://www.micc.unifi.it/). My research focuses on Multimodal Learning, Natural Language Processing, Contrastive Self-Supervised Learning, and Incremental Learning. I am particularly passionate about applying these technologies to healthcare, where they can revolutionize medical diagnostics.
 
 ## About Me
 
