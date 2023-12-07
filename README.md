@@ -16,7 +16,7 @@ I have a solid background in Computer Engineering and Artificial Intelligence, a
 
 ## Pubblications
 
-- RE-tune: Incremental Fine Tuning of Biomedical Vision Language Models, presented at [Medical Imaging meets NeurIPS 23](https://sites.google.com/view/med-neurips2023/home)
+- "RE-tune: Incremental Fine Tuning of Biomedical Vision Language Models", presented at [Medical Imaging meets NeurIPS 23](https://sites.google.com/view/med-neurips2023/home)
 
 ## Contact Information
 
