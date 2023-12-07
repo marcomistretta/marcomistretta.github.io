@@ -20,10 +20,9 @@ Feel free to reach out to me through the following channels:
 
 - [LinkedIn](https://www.linkedin.com/in/marco-mistretta-0b02a021a/)
 - [Google Scholar](https://scholar.google.com/citations?hl=it&authuser=4&user=KMIb4eAAAAAJ)
-- Email: [marco.mistertta@edu.unifi.it](mailto:marco.mistertta@edu.unifi.it)
+- Email: [marco.mistretta@unifi.it](mailto:marco.mistretta@unifi.it)
 
 Connect with me to stay updated on my latest research and projects!
+Grab a copy of my most recent [resume](resume.pdf) 
 
 ---
-
-
