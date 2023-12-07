@@ -1,10 +1,3 @@
----
-title: Marco Mistretta
-description: AI Enthusiast | PhD Student in Computer Engineering and AI | Researcher in Multimodal Vision-Language Learning, Medical Imaging, Continual Learning
-logo: marco.jpg
-theme: jekyll-theme-minimal
----
-
 # Marco Mistretta
 
 Welcome to my GitHub repository! I am Marco Mistretta, an AI enthusiast and a dedicated PhD student at [MICC](https://www.micc.unifi.it/). My research focuses on Multimodal Learning, Natural Language Processing, Contrastive Self-Supervised Learning, and Incremental Learning. I am particularly passionate about applying these technologies to healthcare, where they can revolutionize medical diagnostics.
@@ -33,5 +26,4 @@ Connect with me to stay updated on my latest research and projects!
 
 ---
 
-**Note:** Ensure that the image file `marco.jpg` is present in the root directory of your GitHub repository for the logo to be displayed.
 
